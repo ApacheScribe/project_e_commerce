@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'CandyScript';
+    src: local('CandyScript'), url(./fonts/CandyScript.ttf) format('truetype');
+  }
+
+.app-title {
+  font-family: CandyScript, Arial, serif;
+  font-weight: black;
+} 
